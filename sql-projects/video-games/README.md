@@ -1,6 +1,8 @@
-# Analyzing Industry Carbon Emissions 
+# Analyzing Video Game Sales 
 **by DataCamp**
 
-This project utilises PostgreSQL to identify the industry that produces the highest carbon emissions.
-
-Data used is publicly available on [nature.com](https://www.nature.com/articles/s41597-022-01178-9). 
+The objective of this project is to:
+- Analyse video game critic and user scores,
+- Analyse sales data for the top 400 video games released since 1977,
+- Search for a golden age of video games by identifying release years that users and critics liked best,
+- And explore the business side of gaming by looking at game sales data.
