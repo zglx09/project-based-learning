@@ -1,11 +1,6 @@
-# Meme Construction Tool
+# Analyzing Industry Carbon Emissions 
+**by DataCamp**
 
-A custom meme generation tool designed to efficiently automate and batch-produce a large number of custom memes for hateful meme detection AI challenge.
+This project utilises PostgreSQL to identify the industry that produces the highest carbon emissions.
 
-It supports the generation of meme through GUI approach, or through CSV metadata-based approach.
-
-## Overview of CSV based approach
-![](./assets/overview_csv.jpg)
-
-## Overview of GUI based approach
-![](./assets/overview_gui.jpg)
+Data used is publicly available on [nature.com](https://www.nature.com/articles/s41597-022-01178-9). 
